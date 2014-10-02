@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC</Machine>
+    <WindowsUser>alexc_000</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c53bf2a7-785b-4e3b-91f1-3693a8966f04</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>91404089F185302E33582805E6C837CA1AB5F7B2EADE7E844C1A0F98F60BC009</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c53bf2a7-785b-4e3b-91f1-3693a8966f04_1.0.0.6_neutral__cb1hhkscw5m06</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c53bf2a7-785b-4e3b-91f1-3693a8966f04_cb1hhkscw5m06!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c53bf2a7-785b-4e3b-91f1-3693a8966f04</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Alex</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.6</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-02T20:00:53.461</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\MadMinute!.exe">
+      <PackagePath>MadMinute!.exe</PackagePath>
+      <Modified>2014-10-02T20:00:52.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-18T19:56:31.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-04-13T07:41:33.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-04-13T05:03:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+      <Modified>2014-04-13T17:43:19.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-04-15T18:17:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\Scores.xbf">
+      <PackagePath>Scores.xbf</PackagePath>
+      <Modified>2014-04-13T17:16:51.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\Select.xbf">
+      <PackagePath>Select.xbf</PackagePath>
+      <Modified>2014-04-15T18:17:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\Solve.xbf">
+      <PackagePath>Solve.xbf</PackagePath>
+      <Modified>2014-05-08T22:11:13.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\MadMinute!.xr.xml">
+      <PackagePath>MadMinute!.xr.xml</PackagePath>
+      <Modified>2014-05-08T21:45:33.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-02T20:00:53.186</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
