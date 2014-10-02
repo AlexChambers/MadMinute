@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ALEX-PC</Machine>
+    <WindowsUser>Alex</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>c53bf2a7-785b-4e3b-91f1-3693a8966f04</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\ARM\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\bin\ARM\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\bin\ARM\Debug\MadMinute!.exe">
+      <PackagePath>MadMinute!.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\bin\ARM\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\bin\ARM\Debug\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\bin\ARM\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\bin\ARM\Debug\Scores.xbf">
+      <PackagePath>Scores.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\bin\ARM\Debug\Select.xbf">
+      <PackagePath>Select.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\bin\ARM\Debug\Solve.xbf">
+      <PackagePath>Solve.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\bin\ARM\Debug\MadMinute!.xr.xml">
+      <PackagePath>MadMinute!.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\bin\ARM\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

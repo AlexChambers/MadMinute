@@ -1,0 +1,207 @@
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\App.xbf
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\MainPage.xbf
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\MadMinute!.exe
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\MadMinute!.pdb
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\resources.pri
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\AppxManifest.xml
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\MadMinute!.build.appxrecipe
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\App.g.i.cs
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\App.g.cs
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\MainPage.g.i.cs
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\MainPage.g.cs
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\XamlTypeInfo.g.cs
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\App.xaml
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\App.xbf
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\XamlSaveStateFile.xml
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\MainPage.xaml
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\MainPage.xbf
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\MadMinute!.exe
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\MadMinute!.pdb
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\priconfig.xml
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\priconfig.xml.intermediate
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\layout.resfiles
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\layout.resfiles.intermediate
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\resources.resfiles
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\resources.resfiles.intermediate
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\pri.resfiles
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\pri.resfiles.intermediate
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\qualifiers.txt
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\qualifiers.txt.intermediate
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\ProjectArchitectures.txt
+c:\Users\Alex\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\Scores.xbf
+c:\Users\Alex\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Scores.g.i.cs
+c:\Users\Alex\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Scores.g.cs
+c:\Users\Alex\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Scores.xaml
+c:\Users\Alex\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Scores.xbf
+c:\Users\Alex\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\Select.xbf
+c:\Users\Alex\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Select.g.i.cs
+c:\Users\Alex\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Select.g.cs
+c:\Users\Alex\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Select.xaml
+c:\Users\Alex\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Select.xbf
+C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\About.xbf
+C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\About.g.i.cs
+C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\About.g.cs
+C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\About.xaml
+C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\About.xbf
+C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Solve.g.i.cs
+C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Solve.g.cs
+C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Solve.xaml
+C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Solve.xbf
+C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\Solve.xbf
+C:\Users\Alex\documents\visual studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\MadMinute!.xr.xml
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\App.xbf
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\About.xbf
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\MainPage.xbf
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\Scores.xbf
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\Select.xbf
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\Solve.xbf
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\MadMinute!.exe
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\MadMinute!.pdb
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\resources.pri
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\AppxManifest.xml
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\bin\Debug\MadMinute!.build.appxrecipe
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\App.g.i.cs
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\App.g.cs
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\About.g.i.cs
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\About.g.cs
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\MainPage.g.i.cs
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\MainPage.g.cs
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Scores.g.i.cs
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Scores.g.cs
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Select.g.i.cs
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Select.g.cs
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Solve.g.i.cs
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Solve.g.cs
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\App.xaml
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\About.xaml
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\MainPage.xaml
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Scores.xaml
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Select.xaml
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Solve.xaml
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\App.xbf
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\About.xbf
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\MainPage.xbf
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Scores.xbf
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Select.xbf
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\Solve.xbf
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\XamlSaveStateFile.xml
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\MadMinute!.exe
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\MadMinute!.pdb
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\priconfig.xml
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\priconfig.xml.intermediate
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\layout.resfiles
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\layout.resfiles.intermediate
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\resources.resfiles
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\resources.resfiles.intermediate
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\pri.resfiles
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\pri.resfiles.intermediate
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\qualifiers.txt
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\qualifiers.txt.intermediate
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\alexc_000\Documents\Visual Studio 2013\Projects\MadMinute!\MadMinute!\obj\Debug\ProjectArchitectures.txt
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\bin\Debug\App.xbf
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\bin\Debug\About.xbf
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\bin\Debug\MainPage.xbf
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\bin\Debug\Scores.xbf
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\bin\Debug\Select.xbf
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\bin\Debug\Solve.xbf
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\bin\Debug\MadMinute!.xr.xml
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\bin\Debug\MadMinute!.exe
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\bin\Debug\MadMinute!.pdb
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\bin\Debug\resources.pri
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\bin\Debug\AppxManifest.xml
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\bin\Debug\MadMinute!.build.appxrecipe
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\App.g.i.cs
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\App.g.cs
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\About.g.i.cs
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\About.g.cs
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\MainPage.g.i.cs
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\MainPage.g.cs
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Scores.g.i.cs
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Scores.g.cs
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Select.g.i.cs
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Select.g.cs
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Solve.g.i.cs
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Solve.g.cs
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\App.xaml
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\About.xaml
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\MainPage.xaml
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Scores.xaml
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Select.xaml
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Solve.xaml
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\App.xbf
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\About.xbf
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\MainPage.xbf
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Scores.xbf
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Select.xbf
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Solve.xbf
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\XamlSaveStateFile.xml
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\MadMinute!.exe
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\MadMinute!.pdb
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\priconfig.xml
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\priconfig.xml.intermediate
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\layout.resfiles
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\layout.resfiles.intermediate
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\resources.resfiles
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\resources.resfiles.intermediate
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\pri.resfiles
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\pri.resfiles.intermediate
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\qualifiers.txt
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\qualifiers.txt.intermediate
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\alexc_000\SkyDrive\Projects\MadMinute!\MadMinute!\obj\Debug\ProjectArchitectures.txt
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\App.xbf
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\About.xbf
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\MainPage.xbf
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\Scores.xbf
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\Select.xbf
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\Solve.xbf
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\MadMinute!.xr.xml
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\MadMinute!.exe
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\MadMinute!.pdb
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\resources.pri
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\AppxManifest.xml
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\MadMinute!.build.appxrecipe
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\App.g.i.cs
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\App.g.cs
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\About.g.i.cs
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\About.g.cs
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\MainPage.g.i.cs
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\MainPage.g.cs
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Scores.g.i.cs
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Scores.g.cs
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Select.g.i.cs
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Select.g.cs
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Solve.g.i.cs
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Solve.g.cs
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\App.xaml
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\About.xaml
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\MainPage.xaml
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Scores.xaml
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Select.xaml
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Solve.xaml
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\App.xbf
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\About.xbf
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\MainPage.xbf
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Scores.xbf
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Select.xbf
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\Solve.xbf
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\XamlSaveStateFile.xml
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\MadMinute!.exe
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\MadMinute!.pdb
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\priconfig.xml
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\priconfig.xml.intermediate
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\layout.resfiles
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\layout.resfiles.intermediate
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\resources.resfiles
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\resources.resfiles.intermediate
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\pri.resfiles
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\pri.resfiles.intermediate
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\qualifiers.txt
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\qualifiers.txt.intermediate
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\ProjectArchitectures.txt

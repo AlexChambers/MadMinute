@@ -1,0 +1,19 @@
+﻿<Page
+    x:Name="pageHome"
+    x:Class="MadMinute_.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MadMinute_"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#FF000000">
+        <Button x:ConnectionId='0' Name="Scores" Content="Scores" HorizontalAlignment="Left" Height="200" Margin="172,345,0,0" VerticalAlignment="Top" Width="300" FontSize="72"                       />
+        <Button x:ConnectionId='0' Name="Play" Content="Play!" HorizontalAlignment="Left" Height="200" Margin="527,345,0,0" VerticalAlignment="Top" Width="300" FontSize="72"                      />
+        <Button x:ConnectionId='0' Name="About" Content="About" HorizontalAlignment="Left" Height="200" Margin="878,345,0,0" VerticalAlignment="Top" Width="300" FontSize="72"                       />
+        <TextBlock HorizontalAlignment="Left" Margin="410,76,0,0" TextWrapping="Wrap" Text="MadMinute!" VerticalAlignment="Top" Height="157" Width="543" FontSize="100"/>
+
+    </Grid>
+</Page>
+
