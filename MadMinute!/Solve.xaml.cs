@@ -27,13 +27,15 @@ namespace MadMinute_
         Payload payload = new Payload();
 
         //Instantiate components
-        const int COUNTDOWN = 5;
+        const int COUNTDOWN = 3;
+        const int MINUTE = 60;
         int topInt, bottomInt, product, value, mult, score, rangeLower, rangeUpper, precounter;
         string temp;
         Random rand = new Random();
         private NavigationHelper navigationHelper;
         private ObservableDictionary defaultViewModel = new ObservableDictionary();
         DispatcherTimer oneSecondTimer;
+        //
 
         /// <summary>
         /// This can be changed to a strongly typed view model.
@@ -179,15 +181,17 @@ namespace MadMinute_
         void oneSecondTimer_Tick(object sender, object e)
         {
             if (precounter > 0)
-                precounter--;
+            {
+                timerBlock.Text = "" + precounter;
+                precounter--;   
+            }
             else
             {
+                timerBlock.Text = String.Empty;
                 setNewNumbers();
                 timerBlock.Text = String.Empty;
                 oneSecondTimer.Stop();
             }
-
-            timerBlock.Text = "" + precounter;
         }
     }
 }

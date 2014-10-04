@@ -41,17 +41,17 @@
         </Grid>
 
         <!-- Buttons -->
-        <Button x:ConnectionId='1' x:Name="btn7" Content="7" HorizontalAlignment="Left" Margin="802,144,0,0" VerticalAlignment="Top" Height="115" Width="128" FontSize="48"                       />
-        <Button x:ConnectionId='2' x:Name="btn4" Content="4" HorizontalAlignment="Left" Margin="802,279,0,0" VerticalAlignment="Top" Height="115" Width="128" FontSize="48"                       />
-        <Button x:ConnectionId='3' x:Name="btn1" Content="1" HorizontalAlignment="Left" Margin="802,418,0,0" VerticalAlignment="Top" Height="115" Width="128" FontSize="48"                       />
-        <Button x:ConnectionId='4' x:Name="btn0" Content="0" HorizontalAlignment="Left" Margin="802,553,0,0" VerticalAlignment="Top" Height="115" Width="288" FontSize="48"                       />
+        <Button x:ConnectionId='1' x:Name="btn9" Content="9" HorizontalAlignment="Left" Margin="1114,144,0,0" VerticalAlignment="Top" Height="115" Width="128" FontSize="48"                       />
+        <Button x:ConnectionId='2' x:Name="btn6" Content="6" HorizontalAlignment="Left" Margin="1114,279,0,0" VerticalAlignment="Top" Height="115" Width="128" FontSize="48"                       />
+        <Button x:ConnectionId='3' x:Name="btn3" Content="3" HorizontalAlignment="Left" Margin="1114,418,0,0" VerticalAlignment="Top" Height="115" Width="128" FontSize="48"                       />
+        <Button x:ConnectionId='4' x:Name="btnCLEAR" Content="CE" HorizontalAlignment="Left" Margin="1114,553,0,0" VerticalAlignment="Top" Height="115" Width="128" FontSize="48"                       />
         <Button x:ConnectionId='5' x:Name="btn8" Content="8" HorizontalAlignment="Left" Margin="962,144,0,0" VerticalAlignment="Top" Height="115" Width="128" FontSize="48"                       />
         <Button x:ConnectionId='6' x:Name="btn5" Content="5" HorizontalAlignment="Left" Margin="962,279,0,0" VerticalAlignment="Top" Height="115" Width="128" FontSize="48"                       />
         <Button x:ConnectionId='7' x:Name="btn2" Content="2" HorizontalAlignment="Left" Margin="962,418,0,0" VerticalAlignment="Top" Height="115" Width="128" FontSize="48"                       />
-        <Button x:ConnectionId='8' x:Name="btn9" Content="9" HorizontalAlignment="Left" Margin="1114,144,0,0" VerticalAlignment="Top" Height="115" Width="128" FontSize="48"                       />
-        <Button x:ConnectionId='9' x:Name="btn6" Content="6" HorizontalAlignment="Left" Margin="1114,279,0,0" VerticalAlignment="Top" Height="115" Width="128" FontSize="48"                       />
-        <Button x:ConnectionId='10' x:Name="btn3" Content="3" HorizontalAlignment="Left" Margin="1114,418,0,0" VerticalAlignment="Top" Height="115" Width="128" FontSize="48"                       />
-        <Button x:ConnectionId='11' x:Name="btnCLEAR" Content="CE" HorizontalAlignment="Left" Margin="1114,553,0,0" VerticalAlignment="Top" Height="115" Width="128" FontSize="48"                       />
+        <Button x:ConnectionId='8' x:Name="btn7" Content="7" HorizontalAlignment="Left" Margin="802,144,0,0" VerticalAlignment="Top" Height="115" Width="128" FontSize="48"                       />
+        <Button x:ConnectionId='9' x:Name="btn4" Content="4" HorizontalAlignment="Left" Margin="802,279,0,0" VerticalAlignment="Top" Height="115" Width="128" FontSize="48"                       />
+        <Button x:ConnectionId='10' x:Name="btn1" Content="1" HorizontalAlignment="Left" Margin="802,418,0,0" VerticalAlignment="Top" Height="115" Width="128" FontSize="48"                       />
+        <Button x:ConnectionId='11' x:Name="btn0" Content="0" HorizontalAlignment="Left" Margin="802,553,0,0" VerticalAlignment="Top" Height="115" Width="288" FontSize="48"                       />
 
         <TextBlock x:Name="txtOutput" TextAlignment="Right" HorizontalAlignment="Left" Height="114" Margin="154,484,0,0" TextWrapping="Wrap" Text="00000" VerticalAlignment="Top" Width="280" FontSize="100" FontStyle="Italic"/>
         <TextBlock x:Name="Top" HorizontalAlignment="Left" Height="116" Margin="318,232,0,0" TextWrapping="Wrap" Text="00" VerticalAlignment="Top" Width="116" FontSize="100"/>

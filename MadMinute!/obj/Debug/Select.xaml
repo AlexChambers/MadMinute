@@ -50,10 +50,10 @@
             <TextBlock x:Name="pageTitle" Text="{StaticResource AppName}" Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
                         IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="0,0,30,40"/>
         </Grid>
-        <Button x:ConnectionId='0' Name="Easy" Content="Easy" HorizontalAlignment="Left" Height="266" Margin="2,106,0,0" Grid.Row="1" VerticalAlignment="Top" Width="276" FontSize="54"                    Grid.Column="1"/>
-        <Button x:ConnectionId='0' Name="Medium" Content="Medium" HorizontalAlignment="Left" Height="266" Margin="306,106,0,0" Grid.Row="1" VerticalAlignment="Top" Width="276" FontSize="54"                      Grid.Column="1"/>
-        <Button x:ConnectionId='0' Name="Hard" Content="Hard" HorizontalAlignment="Left" Height="266" Margin="608,106,0,0" Grid.Row="1" VerticalAlignment="Top" Width="276" FontSize="54"                    Grid.Column="1"/>
-        <Button x:ConnectionId='0' Name="Einstein" Content="Einstein!" HorizontalAlignment="Left" Height="266" Margin="912,106,0,0" Grid.Row="1" VerticalAlignment="Top" Width="276" FontSize="54"                        Grid.Column="1"/>
+        <Button x:ConnectionId='1' Name="Easy" Content="Easy" HorizontalAlignment="Left" Height="266" Margin="2,106,0,0" Grid.Row="1" VerticalAlignment="Top" Width="276" FontSize="54"                    Grid.Column="1"/>
+        <Button x:ConnectionId='2' Name="Medium" Content="Medium" HorizontalAlignment="Left" Height="266" Margin="306,106,0,0" Grid.Row="1" VerticalAlignment="Top" Width="276" FontSize="54"                      Grid.Column="1"/>
+        <Button x:ConnectionId='3' Name="Hard" Content="Hard" HorizontalAlignment="Left" Height="266" Margin="608,106,0,0" Grid.Row="1" VerticalAlignment="Top" Width="276" FontSize="54"                    Grid.Column="1"/>
+        <Button x:ConnectionId='4' Name="Einstein" Content="Einstein!" HorizontalAlignment="Left" Height="266" Margin="912,106,0,0" Grid.Row="1" VerticalAlignment="Top" Width="276" FontSize="54"                        Grid.Column="1"/>
         <TextBlock HorizontalAlignment="Left" Margin="10,392,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Between 0 and 9" VerticalAlignment="Top" Height="55" Width="265" FontSize="28" FontStyle="Italic" Grid.Column="1" TextAlignment="Center"/>
         <TextBlock HorizontalAlignment="Left" Margin="309,392,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Between 2 and 15" VerticalAlignment="Top" Height="55" Width="270" FontSize="28" FontStyle="Italic" Grid.Column="1" TextAlignment="Center"/>
         <TextBlock HorizontalAlignment="Left" Margin="611,392,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Between 10 and 30" VerticalAlignment="Top" Height="55" Width="270" FontSize="28" FontStyle="Italic" Grid.Column="1" TextAlignment="Center"/>

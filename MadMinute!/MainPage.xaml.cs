@@ -27,21 +27,21 @@ namespace MadMinute_
             this.InitializeComponent();
         }
 
+        // SCORES - Launch the "Scores" page on button click
         private void btnScore_Click(object sender, RoutedEventArgs e)
         {
-            //SCORES
             this.Frame.Navigate(typeof(Scores), null);
         }
 
+        // SELECT - Launch the "Select" page on button click
         private void btnPlay_Click(object sender, RoutedEventArgs e)
         {
-            //PLAY
             this.Frame.Navigate(typeof(Select),null);
         }
 
+        // ABOUT - Launch the "About" page on button click
         private void btnAbout_Click(object sender, RoutedEventArgs e)
         {
-            //ABOUT
             this.Frame.Navigate(typeof(About), null);
         }
     }

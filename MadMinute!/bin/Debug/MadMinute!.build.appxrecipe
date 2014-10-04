@@ -7,59 +7,59 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>c53bf2a7-785b-4e3b-91f1-3693a8966f04</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\alexc_000\OneDrive\Projects\MadMinute\MadMinute!\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute\MadMinute!\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\MadMinute!.exe">
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute\MadMinute!\bin\Debug\MadMinute!.exe">
       <PackagePath>MadMinute!.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute\MadMinute!\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute\MadMinute!\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute\MadMinute!\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute\MadMinute!\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\Common\ReadMe.txt">
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute\MadMinute!\Common\ReadMe.txt">
       <PackagePath>Common\ReadMe.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute\MadMinute!\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\About.xbf">
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute\MadMinute!\bin\Debug\About.xbf">
       <PackagePath>About.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute\MadMinute!\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\Scores.xbf">
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute\MadMinute!\bin\Debug\Scores.xbf">
       <PackagePath>Scores.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\Select.xbf">
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute\MadMinute!\bin\Debug\Select.xbf">
       <PackagePath>Select.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\Solve.xbf">
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute\MadMinute!\bin\Debug\Solve.xbf">
       <PackagePath>Solve.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\MadMinute!.xr.xml">
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute\MadMinute!\bin\Debug\MadMinute!.xr.xml">
       <PackagePath>MadMinute!.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute!\MadMinute!\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\alexc_000\OneDrive\Projects\MadMinute\MadMinute!\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
