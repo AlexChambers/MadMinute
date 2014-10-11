@@ -5,4 +5,7 @@
     <AppxShowAllApps>False</AppxShowAllApps>
     <AppxBuildConfigurationSelection>arm</AppxBuildConfigurationSelection>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <UseSimulator>false</UseSimulator>
+  </PropertyGroup>
 </Project>
