@@ -58,6 +58,5 @@
         <TextBlock HorizontalAlignment="Left" Margin="309,392,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Between 2 and 15" VerticalAlignment="Top" Height="55" Width="270" FontSize="28" FontStyle="Italic" Grid.Column="1" TextAlignment="Center"/>
         <TextBlock HorizontalAlignment="Left" Margin="611,392,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Between 10 and 30" VerticalAlignment="Top" Height="55" Width="270" FontSize="28" FontStyle="Italic" Grid.Column="1" TextAlignment="Center"/>
         <TextBlock HorizontalAlignment="Left" Margin="915,392,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Between 11 and 50" VerticalAlignment="Top" Height="55" Width="270" FontSize="28" FontStyle="Italic" Grid.Column="1" TextAlignment="Center"/>
-        <TimePicker Grid.Column="1" HorizontalAlignment="Left" Margin="1386,33,-204,0" VerticalAlignment="Top" Width="100"/>
     </Grid>
 </Page>

@@ -69,12 +69,12 @@ namespace MadMinute_
             Bottom.Text = String.Empty;
             txtOutput.Text = String.Empty;
             timerBlock.Text = String.Empty;
-            ScoreDialogue.Text = String.Empty;
+            ScoreDialogue.Text = "0";
             precounter = COUNTDOWN;
 
             //Initialize timers with time spans
             oneSecondTimer = new DispatcherTimer();
-            oneSecondTimer.Tick += oneSecondTimer_Tick;
+            oneSecondTimer.Tick += oneSecond_Tick;
             oneSecondTimer.Interval = TimeSpan.FromSeconds(1);
 
             //Start the oneSecondTimer
@@ -178,7 +178,7 @@ namespace MadMinute_
         }
 
         //Count from COUNTDOWN to 0. Stop this timer, and start the minuteTimer
-        void oneSecondTimer_Tick(object sender, object e)
+        void oneSecond_Tick(object sender, object e)
         {
             if (precounter > 0)
             {

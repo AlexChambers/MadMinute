@@ -36,8 +36,8 @@
                         AutomationProperties.ItemType="Navigation Button"/>
             <TextBlock x:Name="pageTitle" Text="{StaticResource AppName}" Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
                         IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="0,0,1046,669"/>
-            <TextBlock x:Name="timerBlock"  Grid.Column="1" HorizontalAlignment="Left" Height="60" Margin="531,680,0,0" TextWrapping="Wrap" FontSize="52" Text="60" VerticalAlignment="Top" Width="65" FontWeight="Bold" IsRightTapEnabled="False" IsTapEnabled="False" IsHoldingEnabled="False" IsDoubleTapEnabled="False" ManipulationMode="None"/>
-            <TextBlock Grid.Column="1" HorizontalAlignment="Left" Height="64" Margin="411,10,0,0" FontSize="52" TextWrapping="Wrap" Text="Score" VerticalAlignment="Top" Width="152"/>
+            <TextBlock x:Name="timerBlock"  Grid.Column="1" HorizontalAlignment="Left" Height="104" Margin="506,316,0,0" TextWrapping="Wrap" FontSize="72" Text="60" VerticalAlignment="Top" Width="115" FontWeight="Bold" IsRightTapEnabled="False" IsTapEnabled="False" IsHoldingEnabled="False" IsDoubleTapEnabled="False" ManipulationMode="None" RenderTransformOrigin="0.577,-3.208"/>
+            <TextBlock Grid.Column="1" HorizontalAlignment="Left" Height="64" Margin="370,10,0,0" FontSize="52" TextWrapping="Wrap" Text="Score" VerticalAlignment="Top" Width="152"/>
         </Grid>
 
         <!-- Buttons -->
@@ -57,6 +57,6 @@
         <TextBlock x:Name="Top" HorizontalAlignment="Left" Height="116" Margin="318,232,0,0" TextWrapping="Wrap" Text="00" VerticalAlignment="Top" Width="116" FontSize="100"/>
         <TextBlock x:Name="Bottom" HorizontalAlignment="Left" Height="116" Margin="318,363,0,0" TextWrapping="Wrap" Text="00" VerticalAlignment="Top" Width="116" FontSize="100"/>
         <TextBlock HorizontalAlignment="Left" Margin="232,388,0,0" TextWrapping="Wrap" Text="x" VerticalAlignment="Top" FontSize="72" Height="74" Width="53" FontWeight="Bold"/>
-        <TextBlock x:Name="ScoreDialogue" HorizontalAlignment="Left" Margin="544,74,0,0" TextWrapping="Wrap" Text="000" VerticalAlignment="Top" FontSize="52" Height="74" Width="163"/>
+        <TextBlock x:Name="ScoreDialogue" HorizontalAlignment="Left" Margin="645,10,0,0" TextWrapping="Wrap" Text="000" VerticalAlignment="Top" FontSize="52" Height="74" Width="163" FontWeight="Bold"/>
     </Grid>
 </Page>
